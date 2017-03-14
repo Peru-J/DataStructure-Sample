@@ -13,7 +13,7 @@ namespace DataStructure
     {
         public int data;
         public BinaryNode left, right;
-
+   //Added comment
         public BinaryNode(int data)
         {
             this.data = data;
