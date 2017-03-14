@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace DataStructure
 {
+    /// <summary>
+    /// Class Declaration for BinaryTree
+    /// </summary>
     class BinaryNode
     {
         public int data;
